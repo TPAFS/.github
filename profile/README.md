@@ -11,6 +11,6 @@ We do this by
 -  Analyzing and modeling such data (e.g. [https://github.com/TPAFS/investigations](https://github.com/TPAFS/investigations)).
 -  Reporting on barriers, prevalent behaviors, policy, and perverse incentives plaguing the health industry (e.g. [https://blog.persius.org/](https://blog.persius.org/) and [https://blog.persius.org/investigations](https://blog.persius.org/investigations)).
 
-**We need all the help we can get, and would appreciate your support in any form.**
+**We are actively seeking financial support.**
 
 Please reach out with questions, comments, critiques, suggestions, or to express interest in getting involved.
