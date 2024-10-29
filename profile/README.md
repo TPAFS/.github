@@ -1,8 +1,8 @@
 **Hi there, thanks for visiting our page.**
 
-TPAFS is the github moniker of [Persius](https://persius.org). We build AI for patients fighting inappropriate health insurnace denials.
+TPAFS is the github moniker of [Persius](https://persius.org). We build AI for patients fighting inappropriate health insurance denials.
 
-Our mission is to advocate for patients, end injustices and improve systems in US healthcare.
+Our mission is to help patients access critical care, and promote transparency, accountability, and justice.
 
 We do this by
 
