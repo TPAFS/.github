@@ -8,10 +8,10 @@ Our mission is to help patients access critical care, and promote transparency, 
 
 We do this by
 
--  Building digital tools and software to lower the barriers consumers face.
--  Acquiring and maintaining data that allow people to access opaque but vital information.
--  Analyzing and modeling that data.
--  Reporting on barriers, prevalent behaviors, policy, and perverse incentives plaguing the health insurance industry.
+-  Directly helping patients overcome inappropriate denials, for free, with our human-in-the-loop AI.
+-  Building AI and software to lower the barriers patients face in seeking recourse.
+-  Acquiring and releasing data that informs accountability.
+-  Reporting on data, barriers, prevalent behaviors, policy, and perverse incentives plaguing the health insurance industry.
 
 **All of our services are free. If you find our work useful, please consider donating to support our development.**
 
