@@ -2,9 +2,9 @@
 
 This is the github homepage of [Persius](https://persius.org). 
 
-We build AI for patients fighting inappropriate health insurance denials, and have been doing so since 2019.
+We build AI for patients fighting inappropriate health insurance denials.
 
-Our broader mission is to help patients access critical care, and promote transparency, accountability, and justice.
+Our mission is to help patients access critical care, and promote transparency, accountability, and justice.
 
 We do this by
 
